@@ -1,0 +1,41 @@
+.clockContainer{
+    background-color:black;
+    padding: 0px 0% 1000px 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.titleContainer {
+    color: #17D4FE;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bolder;
+    display: flex;
+    align-self: center;
+    margin-top: 40px;
+}
+
+.digitalClock {
+    color: #17D4FE;
+    font-size: x-large;
+    display: flex;
+    align-self: center;
+    margin-top: 20px ;
+    font-family: Orbitron;
+
+
+}
+
+.digitalData {
+color: #17D4FE;
+    font-size: x-large;
+    display: flex;
+    align-self: center;
+    margin-top: 20px ;
+    font-family: Orbitron;
+ 
+}
+
+
